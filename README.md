@@ -388,15 +388,6 @@ Complete documentation:
 
 ---
 
-# 👤 Author
-
-**Ankit Kirtane**
-
-**Domain:** Cybersecurity / Ethical Hacking  
-**Project:** DVWA SQL Injection Security Lab
-
----
-
 ## ⭐ Project Status
 
 **Completed — Educational Security Lab**
